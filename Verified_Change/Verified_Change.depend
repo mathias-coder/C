@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742244959 source:d:\udemy\linguagem c\projects\verified_change\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

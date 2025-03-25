@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742324032 source:d:\udemy\linguagem c\projects\sum_odds\main.c
+	<stdio.h>
+	<stdlib.h>
+
