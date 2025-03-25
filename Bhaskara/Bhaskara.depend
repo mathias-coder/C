@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742065382 source:d:\udemy\linguagem c\projects\bhaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

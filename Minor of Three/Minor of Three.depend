@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742065984 source:d:\udemy\linguagem c\projects\minor of three\main.c
+	<stdio.h>
+	<stdlib.h>
+

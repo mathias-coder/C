@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742069928 source:d:\udemy\linguagem c\projects\middle ages\main.c
+	<stdio.h>
+	<stdlib.h>
+
